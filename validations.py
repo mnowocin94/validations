@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# used for pull request example
 
 def validate_user(username, minlen):
   """Checks if the received username matches the required conditions."""
